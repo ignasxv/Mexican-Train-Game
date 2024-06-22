@@ -1,7 +1,5 @@
 # Mexican-Train-Game
-A Java implementation of the Mexican Train - Dominoes Game
 
-## Mexican Train Game
 
 ### Description
 The **Mexican Train Game** A Java implementation of the popular Mexican Train Dominoes game. Built with JavaFX.
