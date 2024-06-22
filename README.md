@@ -28,5 +28,5 @@ In Mexican Train Dominoes, players take turns adding their dominos to a personal
 ### Getting Started
 To get started with the **Mexican Train Game**, follow these steps:
 1. **Clone the Repository:** ` `
-2. **Build the Project:** ``
-3. **Run the Game:** ``
+2. **Build the Project:** ` `
+3. **Run the Game:** ` `
