@@ -2,7 +2,7 @@
 
 
 ### Description
-The **Mexican Train Game** A Java implementation of the popular Mexican Train Dominoes game. Built with JavaFX. ()
+The **Mexican Train Game** A Java implementation of the popular Mexican Train Dominoes game. Built with JavaFX. ()()
 
 ### Game Overview
 In Mexican Train Dominoes, players take turns adding their dominos to a personal or shared train, with the ultimate goal of being the first to play all their dominos. The game involves strategy, planning, and a bit of luck, making it engaging and fun for players of all ages.
